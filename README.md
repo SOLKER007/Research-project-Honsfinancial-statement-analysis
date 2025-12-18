@@ -1,0 +1,1 @@
+Automates extraction, normalization and analysis of income statements from PDF annual reports. Generates clean multi-year datasets, key profitability metrics, growth analysis and visualizations using Python, pandas, pdfplumber and matplotlib for research and portfolio purposes.
